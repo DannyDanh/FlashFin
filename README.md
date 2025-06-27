@@ -46,7 +46,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Demo of FinFlip](assets/demo.gif)
+![Demo](src/assets/demo.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
