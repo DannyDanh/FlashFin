@@ -46,7 +46,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='assets/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Demo of FinFlip](assets/demo.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
