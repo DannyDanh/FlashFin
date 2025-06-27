@@ -2,11 +2,12 @@
 
 Submitted by: **Danh Nguyen**
 
-This web app: **FinFlip is an interactive flashcard web app that helps you master personal finance terms through quick, gamified quizzes with instant feedback and progress tracking.**
+This web app: **FlashFin is an interactive flashcard web app that helps you master personal finance terms through quick, gamified quizzes with instant feedback and progress tracking.**
 
 Time spent: **2** hours spent in total
 
 ## Required Features
+
 
 The following **required** functionality is completed:
 
@@ -45,7 +46,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
